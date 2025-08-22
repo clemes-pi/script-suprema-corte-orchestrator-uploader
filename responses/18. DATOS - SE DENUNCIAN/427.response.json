@@ -1,0 +1,17 @@
+{
+  "id": "c0235364-8df9-401f-bea0-de23bb807295",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/SALDO%20DE%20CUENTA%20-%20SOLICITA/427.docx",
+  "container": "documents",
+  "size_bytes": 26291,
+  "elapsed_ms": 3327,
+  "text_chars": 443,
+  "answer": {
+    "tramite_posible": "SALDO DE CUENTA - SOLICITA",
+    "peticiones_secundarias": [
+      "ACREDITA CUMPLIMIENTO"
+    ],
+    "justificacion": "El documento tiene como intención principal la denuncia de datos bancarios, lo que corresponde al trámite 'SALDO DE CUENTA - SOLICITA'. La petición secundaria es el cumplimiento de lo ordenado, que puede encajar en 'ACREDITA CUMPLIMIENTO', pero no es la intención principal del escrito.",
+    "prompt_tokens": 2746,
+    "completion_tokens": 111
+  }
+}

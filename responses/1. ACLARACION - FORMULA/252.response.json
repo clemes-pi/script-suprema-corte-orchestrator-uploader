@@ -1,0 +1,18 @@
+{
+  "id": "d3d70bbc-7b35-4396-b224-51348e1bdc07",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20INSCRIPCI%C3%93N%20SOLICITA/252.docx",
+  "container": "documents",
+  "size_bytes": 26628,
+  "elapsed_ms": 5773,
+  "text_chars": 1197,
+  "answer": {
+    "tramite_posible": "DH - INSCRIPCIÓN SOLICITA",
+    "peticiones_secundarias": [
+      "Reiteración de lo peticionado el 11/12/2024",
+      "Aclaración sobre la titularidad del dominio del bien objeto de autos"
+    ],
+    "justificacion": "El documento enfatiza que la Declaratoria de Herederos fue debidamente inscripta ante el Registro de la Propiedad Inmueble, lo cual corresponde al trámite 'DH - INSCRIPCIÓN SOLICITA'. Las demás peticiones tienen menor prioridad ya que son reiteraciones y aclaraciones complementarias.",
+    "prompt_tokens": 2925,
+    "completion_tokens": 138
+  }
+}

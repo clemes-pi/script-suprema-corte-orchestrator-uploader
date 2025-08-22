@@ -1,0 +1,17 @@
+{
+  "id": "fdb34823-47bb-4e04-b332-1f028d63823f",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/BONO%20Y%20IUS%20-%20ACOMPA%C3%91A/345.docx",
+  "container": "documents",
+  "size_bytes": 26343,
+  "elapsed_ms": 2710,
+  "text_chars": 634,
+  "answer": {
+    "tramite_posible": "BONO Y IUS - ACOMPAÑA",
+    "peticiones_secundarias": [
+      "APORTE - SE CUMPLE"
+    ],
+    "justificacion": "El documento acredita el pago del Bono Ley 8480 y los aportes previsionales de la Ley 6.716. Según el listado, la acción principal relacionada con el Bono Ley corresponde al trámite 'BONO Y IUS - ACOMPAÑA', ya que el escrito adjunta el comprobante de pago. La petición secundaria, relativa a los aportes, se clasifica como 'APORTE - SE CUMPLE'.",
+    "prompt_tokens": 2773,
+    "completion_tokens": 137
+  }
+}

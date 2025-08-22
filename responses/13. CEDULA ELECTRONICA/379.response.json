@@ -1,0 +1,15 @@
+{
+  "id": "1502f5ea-ae80-465e-ad3f-add6bb71a799",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents//379.docx",
+  "container": "documents",
+  "size_bytes": 29371,
+  "elapsed_ms": 1911,
+  "text_chars": 133,
+  "answer": {
+    "tramite_posible": "",
+    "peticiones_secundarias": [],
+    "justificacion": "",
+    "prompt_tokens": 2650,
+    "completion_tokens": 105
+  }
+}

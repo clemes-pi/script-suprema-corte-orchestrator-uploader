@@ -1,0 +1,17 @@
+{
+  "id": "d7330370-c976-4383-9225-eae8a8bf4ba4",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DESISTIMIENTO%20-%20PRESENTA/432.docx",
+  "container": "documents",
+  "size_bytes": 26475,
+  "elapsed_ms": 2320,
+  "text_chars": 846,
+  "answer": {
+    "tramite_posible": "DESISTIMIENTO - PRESENTA",
+    "peticiones_secundarias": [
+      "SE PROVEA - SOLICITA"
+    ],
+    "justificacion": "La intención principal del escrito es desistir del codemandado genérico, lo cual encaja directamente en el trámite 'DESISTIMIENTO - PRESENTA'. Aunque también se solicita que se provea lo peticionado anteriormente, esta es una petición secundaria y no constituye el objetivo principal del documento.",
+    "prompt_tokens": 2832,
+    "completion_tokens": 108
+  }
+}

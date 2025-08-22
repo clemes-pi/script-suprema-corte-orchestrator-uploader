@@ -1,0 +1,18 @@
+{
+  "id": "f7375598-051b-4bac-b08f-7cc93586c363",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20DILIGENCIADA%20-%20ACOMPA%C3%91A/363.docx",
+  "container": "documents",
+  "size_bytes": 26393,
+  "elapsed_ms": 4659,
+  "text_chars": 860,
+  "answer": {
+    "tramite_posible": "CÉDULA DILIGENCIADA - ACOMPAÑA",
+    "peticiones_secundarias": [
+      "Informe sobre el intento de diligenciamiento de la cédula",
+      "Adjuntar la cédula en formato PDF para corroboración"
+    ],
+    "justificacion": "El documento tiene como intención principal informar el resultado del intento de diligenciamiento de una cédula de notificación, incluyendo detalles de los intentos realizados y la falta de respuesta en el domicilio indicado. Además, se adjunta la cédula en formato PDF para verificar los datos. Según el listado, este trámite corresponde al trámite 'CÉDULA DILIGENCIADA - ACOMPAÑA'.",
+    "prompt_tokens": 2826,
+    "completion_tokens": 164
+  }
+}

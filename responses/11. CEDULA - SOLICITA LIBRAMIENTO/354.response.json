@@ -1,0 +1,17 @@
+{
+  "id": "4ec9ee53-924d-46bf-8fe5-c3dc73cf35b8",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20-%20SOLICITA%20SE%20LIBRE%20NUEVA/354.docx",
+  "container": "documents",
+  "size_bytes": 26162,
+  "elapsed_ms": 2167,
+  "text_chars": 574,
+  "answer": {
+    "tramite_posible": "CÉDULA - SOLICITA SE LIBRE NUEVA",
+    "peticiones_secundarias": [
+      "AUTORIZACIÓN - SOLICITA"
+    ],
+    "justificacion": "El documento principal solicita que se autorice la emisión de una cédula bajo responsabilidad de la parte actora, lo cual se encuadra específicamente en el trámite 'CÉDULA - SOLICITA SE LIBRE NUEVA'. La petición secundaria, aunque implícita, es la autorización requerida para el libramiento, pero no constituye la intención principal.",
+    "prompt_tokens": 2763,
+    "completion_tokens": 125
+  }
+}

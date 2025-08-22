@@ -1,0 +1,15 @@
+{
+  "id": "677d1450-b6ed-4f36-b681-89b56ace36ca",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20SOLICITA%20SE%20DICTE/411.docx",
+  "container": "documents",
+  "size_bytes": 26072,
+  "elapsed_ms": 2775,
+  "text_chars": 251,
+  "answer": {
+    "tramite_posible": "DH - SOLICITA SE DICTE",
+    "peticiones_secundarias": [],
+    "justificacion": "El documento solicita expresamente que se dicte la declaratoria de herederos en el marco de una sucesión ab-intestato. Por lo tanto, el trámite correspondiente según el listado es 'DH - SOLICITA SE DICTE'.",
+    "prompt_tokens": 2682,
+    "completion_tokens": 91
+  }
+}

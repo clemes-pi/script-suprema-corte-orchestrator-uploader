@@ -1,0 +1,18 @@
+{
+  "id": "b595e7ce-6b1c-4e82-afb9-a4f0e9a9e09e",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/INTIMACI%C3%93N%20-%20SOLICITA/396.docx",
+  "container": "documents",
+  "size_bytes": 27481,
+  "elapsed_ms": 3635,
+  "text_chars": 2422,
+  "answer": {
+    "tramite_posible": "INTIMACIÓN - SOLICITA",
+    "peticiones_secundarias": [
+      "Solicita fijar monto del canon locativo que deberá pagar el demandado",
+      "Propone designar perito tasador en caso de considerarse necesario"
+    ],
+    "justificacion": "La intención principal del escrito es que el juez declare la cuestión de puro derecho y proceda a fijar el monto del canon locativo que deberá pagar el demandado, lo cual se alinea con la solicitud de una intimación para determinar el pago. Las peticiones secundarias incluyen propuestas relacionadas con la fijación del canon locativo.",
+    "prompt_tokens": 3174,
+    "completion_tokens": 143
+  }
+}

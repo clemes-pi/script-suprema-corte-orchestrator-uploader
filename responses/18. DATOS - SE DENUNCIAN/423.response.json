@@ -1,0 +1,15 @@
+{
+  "id": "e9534768-324a-4528-a5bd-75f38795492d",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/SALDO%20DE%20CUENTA%20-%20SOLICITA/423.docx",
+  "container": "documents",
+  "size_bytes": 26153,
+  "elapsed_ms": 21488,
+  "text_chars": 301,
+  "answer": {
+    "tramite_posible": "SALDO DE CUENTA - SOLICITA",
+    "peticiones_secundarias": [],
+    "justificacion": "La intención principal del documento es denunciar información relacionada con la cuenta bancaria, lo cual se ajusta al trámite 'SALDO DE CUENTA - SOLICITA' del listado proporcionado. No se identifican otras solicitudes secundarias en el contenido.",
+    "prompt_tokens": 2698,
+    "completion_tokens": 89
+  }
+}

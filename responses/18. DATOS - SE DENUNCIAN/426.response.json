@@ -1,0 +1,17 @@
+{
+  "id": "c220816f-e6a9-40d1-a3c0-6868b51ec773",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/PERITO%20MANIFIESTA%20/%20INFORMA/426.docx",
+  "container": "documents",
+  "size_bytes": 26435,
+  "elapsed_ms": 2827,
+  "text_chars": 508,
+  "answer": {
+    "tramite_posible": "PERITO MANIFIESTA / INFORMA",
+    "peticiones_secundarias": [
+      "ACREDITA CUMPLIMIENTO"
+    ],
+    "justificacion": "La intención principal del documento es que el perito psicóloga de oficio manifieste e informe sus datos bancarios, lo cual se encuadra en el trámite 'PERITO MANIFIESTA / INFORMA'. Aunque se menciona el cumplimiento de una orden judicial, esta es una acción secundaria en el contexto del informe de datos bancarios.",
+    "prompt_tokens": 2772,
+    "completion_tokens": 121
+  }
+}

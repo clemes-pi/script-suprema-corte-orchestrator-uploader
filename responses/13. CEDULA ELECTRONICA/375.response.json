@@ -1,0 +1,15 @@
+{
+  "id": "9ae6001b-dad8-40e1-87e3-3f41d79b4256",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20-%20SOLICITA%20SE%20LIBRE%20NUEVA/375.docx",
+  "container": "documents",
+  "size_bytes": 28987,
+  "elapsed_ms": 2660,
+  "text_chars": 70,
+  "answer": {
+    "tramite_posible": "CÉDULA - SOLICITA SE LIBRE NUEVA",
+    "peticiones_secundarias": [],
+    "justificacion": "El texto menciona que la solicitud se realiza bajo la responsabilidad de la parte actora, lo cual corresponde al trámite 'CÉDULA - SOLICITA SE LIBRE NUEVA' según los lineamientos establecidos, ya que no hay otras intenciones explícitas en el documento.",
+    "prompt_tokens": 2620,
+    "completion_tokens": 101
+  }
+}

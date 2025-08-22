@@ -1,0 +1,18 @@
+{
+  "id": "5bd471dc-6390-46ca-b457-d58dad0c69f6",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/OFICIO%20ELECTR%C3%93NICO%20/%20TESTIMONIO%20ELECTR%C3%93NICO/361.docx",
+  "container": "documents",
+  "size_bytes": 26472,
+  "elapsed_ms": 2859,
+  "text_chars": 763,
+  "answer": {
+    "tramite_posible": "OFICIO ELECTRÓNICO / TESTIMONIO ELECTRÓNICO",
+    "peticiones_secundarias": [
+      "Elevación del informe para consideración del juez",
+      "Referencia al plano catastral y división municipal"
+    ],
+    "justificacion": "El documento hace referencia a un instrumento electrónico, específicamente una cédula electrónica, y eleva un informe relacionado para la consideración del juez. Dado que el trámite principal está vinculado a un instrumento electrónico, se clasifica como 'OFICIO ELECTRÓNICO / TESTIMONIO ELECTRÓNICO'. Las otras peticiones son secundarias y complementarias al trámite principal.",
+    "prompt_tokens": 2774,
+    "completion_tokens": 143
+  }
+}

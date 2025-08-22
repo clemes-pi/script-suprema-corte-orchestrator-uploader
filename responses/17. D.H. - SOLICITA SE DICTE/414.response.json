@@ -1,0 +1,17 @@
+{
+  "id": "038f3df7-87f6-40a2-bbf0-82f5803055e2",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20SOLICITA%20SE%20DICTE/414.docx",
+  "container": "documents",
+  "size_bytes": 26399,
+  "elapsed_ms": 1738,
+  "text_chars": 562,
+  "answer": {
+    "tramite_posible": "DH - SOLICITA SE DICTE",
+    "peticiones_secundarias": [
+      "ACREDITA"
+    ],
+    "justificacion": "La intención principal del documento es solicitar que se dicte la declaratoria de herederos, lo cual tiene mayor relevancia que la acreditación de la publicación de edictos. Aunque se acompaña documentación adicional, esta es secundaria y sirve como respaldo para la petición central.",
+    "prompt_tokens": 2776,
+    "completion_tokens": 100
+  }
+}

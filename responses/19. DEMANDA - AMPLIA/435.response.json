@@ -1,0 +1,17 @@
+{
+  "id": "68d9a288-8b90-4aea-81f9-44cd9db463b9",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DEMANDA%20-%20SE%20PRESENTA/435.docx",
+  "container": "documents",
+  "size_bytes": 26114,
+  "elapsed_ms": 2735,
+  "text_chars": 400,
+  "answer": {
+    "tramite_posible": "DEMANDA - SE PRESENTA",
+    "peticiones_secundarias": [
+      "Solicitud de que se corra traslado de la demanda"
+    ],
+    "justificacion": "La intención principal del documento es formular una aclaración sobre la demanda presentada y solicitar que se tenga por aclarado el objeto de la misma, lo cual se enmarca dentro del trámite de presentación de una demanda. La solicitud de correr traslado es una petición secundaria que no modifica la naturaleza principal del trámite.",
+    "prompt_tokens": 2708,
+    "completion_tokens": 113
+  }
+}

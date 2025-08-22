@@ -1,0 +1,17 @@
+{
+  "id": "a0747394-e48b-4696-a731-1ec02bbd227a",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20INSCRIPCI%C3%93N%20SOLICITA/405.docx",
+  "container": "documents",
+  "size_bytes": 26277,
+  "elapsed_ms": 2046,
+  "text_chars": 807,
+  "answer": {
+    "tramite_posible": "DH - INSCRIPCIÓN SOLICITA",
+    "peticiones_secundarias": [
+      "CUMPLE INTIMACIÓN"
+    ],
+    "justificacion": "La intención principal del documento es proceder a la inscripción de la declaratoria de herederos, lo cual se solicita expresamente en el texto. La petición secundaria, 'cumple intimación', es un acto preparatorio que respalda la solicitud principal, pero no constituye el trámite prioritario.",
+    "prompt_tokens": 2804,
+    "completion_tokens": 105
+  }
+}

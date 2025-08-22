@@ -1,0 +1,18 @@
+{
+  "id": "51deab18-065b-4948-ba7c-021f90b3fbda",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20INSCRIPCI%C3%93N%20SOLICITA/408.docx",
+  "container": "documents",
+  "size_bytes": 26918,
+  "elapsed_ms": 3693,
+  "text_chars": 1934,
+  "answer": {
+    "tramite_posible": "DH - INSCRIPCIÓN SOLICITA",
+    "peticiones_secundarias": [
+      "Mandar agregar los informes de dominio de los automotores denunciados como integrante del acervo hereditario",
+      "Mandar agregar los informes de anotaciones personales del causante (inhibición y cesión)"
+    ],
+    "justificacion": "La intención principal del documento es solicitar la inscripción de la declaratoria de herederos respecto de los automóviles señalados, conforme a los informes de dominio acompañados. Por lo tanto, se clasifica bajo 'DH - INSCRIPCIÓN SOLICITA'. Las demás peticiones, como agregar informes, son accesorias a esta solicitud principal.",
+    "prompt_tokens": 3060,
+    "completion_tokens": 155
+  }
+}

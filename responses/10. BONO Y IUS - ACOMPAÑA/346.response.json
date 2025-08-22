@@ -1,0 +1,17 @@
+{
+  "id": "d20839c4-0cf4-463c-8855-8158e96affca",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/BONO%20Y%20IUS%20-%20ACOMPA%C3%91A/346.docx",
+  "container": "documents",
+  "size_bytes": 26215,
+  "elapsed_ms": 2517,
+  "text_chars": 408,
+  "answer": {
+    "tramite_posible": "BONO Y IUS - ACOMPAÑA",
+    "peticiones_secundarias": [
+      "Solicita se tenga por cumplido el pago"
+    ],
+    "justificacion": "El documento acredita el pago del Bono Ley 8480, que corresponde claramente al trámite 'BONO Y IUS - ACOMPAÑA', según el listado proporcionado. Aunque se solicita que se tenga por cumplido, esta petición secundaria está vinculada directamente a la acreditación del pago.",
+    "prompt_tokens": 2716,
+    "completion_tokens": 110
+  }
+}

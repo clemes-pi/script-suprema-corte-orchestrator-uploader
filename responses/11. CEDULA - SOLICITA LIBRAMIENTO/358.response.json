@@ -1,0 +1,17 @@
+{
+  "id": "88447b6d-694b-4b82-812e-fdc76cc6f9bc",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20-%20SOLICITA%20SE%20LIBRE%20NUEVA/358.docx",
+  "container": "documents",
+  "size_bytes": 26457,
+  "elapsed_ms": 3497,
+  "text_chars": 741,
+  "answer": {
+    "tramite_posible": "CÉDULA - SOLICITA SE LIBRE NUEVA",
+    "peticiones_secundarias": [
+      "Solicita autorización para fijar la cédula en la puerta de acceso del edificio"
+    ],
+    "justificacion": "La petición principal del documento es la solicitud de una nueva cédula bajo responsabilidad de la parte actora, lo cual se ajusta perfectamente al trámite 'CÉDULA - SOLICITA SE LIBRE NUEVA'. La solicitud adicional de autorización para fijar la cédula en la puerta del edificio es secundaria y no modifica la clasificación principal.",
+    "prompt_tokens": 2795,
+    "completion_tokens": 137
+  }
+}

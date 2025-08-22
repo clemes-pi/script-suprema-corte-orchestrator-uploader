@@ -1,0 +1,17 @@
+{
+  "id": "3c7e6f9e-0d87-4f2d-9c02-ec4bb44c193c",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/MEDIDA%20CAUTELAR%20-%20SOLICITA/385.docx",
+  "container": "documents",
+  "size_bytes": 26172,
+  "elapsed_ms": 5168,
+  "text_chars": 290,
+  "answer": {
+    "tramite_posible": "MEDIDA CAUTELAR - SOLICITA",
+    "peticiones_secundarias": [
+      "Citación al demandado en venta por el término de ley"
+    ],
+    "justificacion": "La intención principal del documento es continuar con la ejecución de la medida cautelar previamente ordenada, solicitando una nueva acción derivada de esta (citación en venta). Según el listado, el trámite que corresponde a medidas cautelares es 'MEDIDA CAUTELAR - SOLICITA'. La citación al demandado es un paso accesorio dentro del proceso.",
+    "prompt_tokens": 2690,
+    "completion_tokens": 133
+  }
+}

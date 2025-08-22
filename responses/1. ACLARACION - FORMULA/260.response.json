@@ -1,0 +1,18 @@
+{
+  "id": "3a2f0330-370e-490f-904a-56d5800b8c3d",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/PERITO%20%28M%C3%89DICO%20-%20PSIC%C3%93LOGO%20-%20INGENIERO%20MEC%C3%81NICO%20-%20CONTADOR%29%20-%20RTA.%20DEL%20ULPIANO/260.docx",
+  "container": "documents",
+  "size_bytes": 26415,
+  "elapsed_ms": 3386,
+  "text_chars": 612,
+  "answer": {
+    "tramite_posible": "PERITO (MÉDICO - PSICÓLOGO - INGENIERO MECÁNICO - CONTADOR) - RTA. DEL ULPIANO",
+    "peticiones_secundarias": [
+      "Solicita subsanación de error respecto al desistimiento parcial de la prueba pericial contable",
+      "Solicita desinsaculación de un perito contador"
+    ],
+    "justificacion": "El documento tiene como intención principal la solicitud de desinsaculación de un perito contador, en el contexto de una corrección solicitada sobre el desistimiento parcial de la prueba pericial contable. Dado que el trámite más adecuado en el listado para abordar la respuesta vinculada a la desinsaculación de un perito es 'PERITO (MÉDICO - PSICÓLOGO - INGENIERO MECÁNICO - CONTADOR) - RTA. DEL ULPIANO', este fue seleccionado como el trámite principal.",
+    "prompt_tokens": 2795,
+    "completion_tokens": 215
+  }
+}

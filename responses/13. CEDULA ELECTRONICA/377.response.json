@@ -1,0 +1,15 @@
+{
+  "id": "2b5d0bf0-4c62-48a5-a5e5-c6894f7b895d",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/TRASLADO%20CONTESTA/377.docx",
+  "container": "documents",
+  "size_bytes": 29452,
+  "elapsed_ms": 2687,
+  "text_chars": 131,
+  "answer": {
+    "tramite_posible": "TRASLADO CONTESTA",
+    "peticiones_secundarias": [],
+    "justificacion": "El documento menciona expresamente 'Traslado de demanda' y hace referencia a los artículos del Código Procesal Civil y Comercial relacionados con este procedimiento. Según el listado proporcionado, la categoría que mejor encaja es 'TRASLADO CONTESTA', ya que no se identifica ninguna otra intención principal en el texto.",
+    "prompt_tokens": 2650,
+    "completion_tokens": 103
+  }
+}

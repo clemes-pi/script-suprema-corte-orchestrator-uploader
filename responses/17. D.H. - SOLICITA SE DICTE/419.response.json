@@ -1,0 +1,17 @@
+{
+  "id": "642b1832-c531-4114-89b5-0a06d883a1c1",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20SOLICITA%20SE%20DICTE/419.docx",
+  "container": "documents",
+  "size_bytes": 26301,
+  "elapsed_ms": 2954,
+  "text_chars": 496,
+  "answer": {
+    "tramite_posible": "DH - SOLICITA SE DICTE",
+    "peticiones_secundarias": [
+      "MANIFIESTA DOCUMENTACIÓN ACOMPAÑADA"
+    ],
+    "justificacion": "La intención principal del documento es reiterar la solicitud para que se dicte la declaratoria de herederos, lo cual se menciona explícitamente en el texto. Aunque también se manifiesta que la documentación ya fue acompañada, esta información es secundaria y no constituye la petición central del escrito.",
+    "prompt_tokens": 2744,
+    "completion_tokens": 112
+  }
+}

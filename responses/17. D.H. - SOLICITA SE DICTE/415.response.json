@@ -1,0 +1,18 @@
+{
+  "id": "74a0a95b-cba1-4493-83a2-37f7a998d287",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20SOLICITA%20SE%20DICTE/415.docx",
+  "container": "documents",
+  "size_bytes": 27311,
+  "elapsed_ms": 3031,
+  "text_chars": 605,
+  "answer": {
+    "tramite_posible": "DH - SOLICITA SE DICTE",
+    "peticiones_secundarias": [
+      "Adjunta la publicación del edicto en el Boletín Oficial",
+      "Solicita proveer de conformidad"
+    ],
+    "justificacion": "El documento solicita expresamente que se dicte la declaratoria de herederos, lo cual encaja directamente con el trámite 'DH - SOLICITA SE DICTE'. Aunque se adjunta la publicación del edicto, esto es un respaldo documental para la petición principal.",
+    "prompt_tokens": 2764,
+    "completion_tokens": 124
+  }
+}

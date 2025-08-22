@@ -1,0 +1,17 @@
+{
+  "id": "b23fe2d2-80e7-4a36-8ec0-64df1369ce55",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/OFICIO%20-%20ACREDITA%20DILIGENCIAMIENTO/433.docx",
+  "container": "documents",
+  "size_bytes": 26443,
+  "elapsed_ms": 2650,
+  "text_chars": 1044,
+  "answer": {
+    "tramite_posible": "OFICIO - ACREDITA DILIGENCIAMIENTO",
+    "peticiones_secundarias": [
+      "DEMANDA - AMPLÍA"
+    ],
+    "justificacion": "El documento tiene como intención principal acreditar el diligenciamiento de un oficio, lo cual corresponde al trámite 'OFICIO - ACREDITA DILIGENCIAMIENTO'. Como petición secundaria, se solicita la ampliación de la demanda, lo cual se clasifica bajo 'DEMANDA - AMPLÍA'. La acreditación del diligenciamiento es la acción central y de mayor prioridad en el escrito.",
+    "prompt_tokens": 2857,
+    "completion_tokens": 136
+  }
+}

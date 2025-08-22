@@ -1,0 +1,18 @@
+{
+  "id": "a93aed0d-1387-4725-8617-d1f77d5085f9",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/REBELD%C3%8DA%20-%20SOLICITA%20SE%20DECLARE/392.docx",
+  "container": "documents",
+  "size_bytes": 26681,
+  "elapsed_ms": 3815,
+  "text_chars": 1006,
+  "answer": {
+    "tramite_posible": "REBELDÍA - SOLICITA SE DECLARE",
+    "peticiones_secundarias": [
+      "SE PROVEA - SOLICITA",
+      "CÉDULA - SOLICITA SE LIBRE NUEVA"
+    ],
+    "justificacion": "La petición principal del documento es que se declare la cuestión como de puro derecho, lo cual está relacionado con la solicitud de declaración de rebeldía. Aunque el escrito menciona que no se solicitó la rebeldía previamente, ahora se solicita expresamente que se declare. Las peticiones secundarias incluyen la solicitud de proveer y, en caso de ser necesario, la notificación mediante cédula.",
+    "prompt_tokens": 2848,
+    "completion_tokens": 153
+  }
+}

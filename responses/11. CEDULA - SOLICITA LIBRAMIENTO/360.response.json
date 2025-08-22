@@ -1,0 +1,17 @@
+{
+  "id": "92d22c02-cb35-406d-9e6f-0e082c8bba52",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20-%20SOLICITA%20SE%20LIBRE%20NUEVA/360.docx",
+  "container": "documents",
+  "size_bytes": 26282,
+  "elapsed_ms": 4700,
+  "text_chars": 495,
+  "answer": {
+    "tramite_posible": "CÉDULA - SOLICITA SE LIBRE NUEVA",
+    "peticiones_secundarias": [
+      "Habilitación de días y horas inhábiles"
+    ],
+    "justificacion": "La intención principal del documento es solicitar una nueva cédula dirigida a los demandados en un domicilio específico, conforme a resultados negativos de las anteriores cédulas. La habilitación de días y horas inhábiles es una petición secundaria que complementa el trámite principal.",
+    "prompt_tokens": 2725,
+    "completion_tokens": 113
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ead65bc7-1a29-49dc-878b-7cb81c858b7f",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/SE%20PROVEA%20-%20SOLICITA/399.docx",
+  "container": "documents",
+  "size_bytes": 26610,
+  "elapsed_ms": 3502,
+  "text_chars": 1016,
+  "answer": {
+    "tramite_posible": "SE PROVEA - SOLICITA",
+    "peticiones_secundarias": [
+      "Declarar la causa de puro derecho",
+      "Reconocer la inexistencia de hechos controvertidos"
+    ],
+    "justificacion": "La solicitud principal del documento es que el juez se pronuncie declarando que la causa es de puro derecho, lo que implica que no existen hechos controvertidos que deban ser probados. Dado que no existe un trámite específico para esta solicitud en el listado, se clasifica dentro del trámite genérico 'SE PROVEA - SOLICITA', que aplica cuando no hay un trámite más específico disponible.",
+    "prompt_tokens": 2832,
+    "completion_tokens": 148
+  }
+}

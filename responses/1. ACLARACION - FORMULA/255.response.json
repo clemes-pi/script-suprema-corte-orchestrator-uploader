@@ -1,0 +1,18 @@
+{
+  "id": "66c47a2c-0a5e-410c-8221-c10b72a3bdb4",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/EXCEPCI%C3%93N%20CONTESTA%20TRASLADO/255.docx",
+  "container": "documents",
+  "size_bytes": 26463,
+  "elapsed_ms": 2795,
+  "text_chars": 882,
+  "answer": {
+    "tramite_posible": "EXCEPCIÓN CONTESTA TRASLADO",
+    "peticiones_secundarias": [
+      "AMPLIA DEMANDA",
+      "RECTIFICA NOMBRE"
+    ],
+    "justificacion": "La petición principal en el documento es la rectificación del nombre de la codemandada en el contexto de un caso ya iniciado. Esto corresponde al trámite relacionado con excepciones y traslados en el listado proporcionado. La ampliación de la demanda se menciona como un aspecto secundario, pero no es la intención principal del escrito.",
+    "prompt_tokens": 2835,
+    "completion_tokens": 122
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8e9fdcf2-f23c-43a2-9807-d9b46c940699",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/BONO%20Y%20IUS%20-%20ACOMPA%C3%91A/343.docx",
+  "container": "documents",
+  "size_bytes": 26429,
+  "elapsed_ms": 3885,
+  "text_chars": 530,
+  "answer": {
+    "tramite_posible": "BONO Y IUS - ACOMPAÑA",
+    "peticiones_secundarias": [
+      "DOCUMENTACIÓN - ACOMPAÑA"
+    ],
+    "justificacion": "La petición principal del documento es adjuntar comprobantes de pago correspondientes al bono ley 8480 y anticipo previsional. Esto se ajusta al trámite 'BONO Y IUS - ACOMPAÑA' del listado proporcionado, dado que el contenido del escrito se refiere específicamente al cumplimiento de este requisito. Aunque se solicita que los comprobantes se agreguen y se tengan presentes, esta acción está implícita en el trámite seleccionado. La petición secundaria podría interpretarse como 'DOCUMENTACIÓN - ACOMPAÑA' pero no es de mayor prioridad.",
+    "prompt_tokens": 2755,
+    "completion_tokens": 161
+  }
+}

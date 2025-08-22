@@ -1,0 +1,18 @@
+{
+  "id": "4bd65e72-9471-44c6-858b-5ca6ac207280",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/PERITO%20MANIFIESTA%20/%20INFORMA/428.docx",
+  "container": "documents",
+  "size_bytes": 26687,
+  "elapsed_ms": 2990,
+  "text_chars": 732,
+  "answer": {
+    "tramite_posible": "PERITO MANIFIESTA / INFORMA",
+    "peticiones_secundarias": [
+      "Denuncia de datos de cuenta (CBU y Constancia de AFIP)",
+      "Acompañamiento de documentación (boleta de aportes y constancia bancaria)"
+    ],
+    "justificacion": "El escrito tiene como intención principal que el perito médico denuncie los datos requeridos (CBU y constancias), lo que corresponde al trámite 'PERITO MANIFIESTA / INFORMA', ya que está proporcionando información relacionada con su actuación en el caso. Las demás acciones, como el acompañamiento de documentación, son secundarias al objetivo principal.",
+    "prompt_tokens": 2824,
+    "completion_tokens": 150
+  }
+}

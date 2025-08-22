@@ -1,0 +1,19 @@
+{
+  "id": "1254986a-1f3f-476e-a3e0-bfb94f51f5e0",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20INSCRIPCI%C3%93N%20SOLICITA/406.docx",
+  "container": "documents",
+  "size_bytes": 26634,
+  "elapsed_ms": 2620,
+  "text_chars": 1080,
+  "answer": {
+    "tramite_posible": "DH - INSCRIPCIÓN SOLICITA",
+    "peticiones_secundarias": [
+      "Acompañar Escritura Pública de cesión de derechos y acciones hereditarios",
+      "Acompañar liquidación del Impuesto a la Transmisión Gratuita de Bienes (ITGB)",
+      "Solicitar libramiento de orden de inscripción"
+    ],
+    "justificacion": "La petición principal del documento es la inscripción del 100% del inmueble en el marco del proceso sucesorio. Esto se encuentra explícito en la solicitud de orden de inscripción peticionada, lo que corresponde al trámite 'DH - INSCRIPCIÓN SOLICITA'. Las demás acciones (acompañamiento de Escritura Pública y liquidación del ITGB) son complementarias y secundarias al objetivo principal de la inscripción.",
+    "prompt_tokens": 2887,
+    "completion_tokens": 180
+  }
+}

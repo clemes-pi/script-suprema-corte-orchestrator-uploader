@@ -1,0 +1,18 @@
+{
+  "id": "f1ae93d3-a96e-4d21-88ec-fe5573ada4e0",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/SE%20PROVEA%20-%20SOLICITA/251.docx",
+  "container": "documents",
+  "size_bytes": 26508,
+  "elapsed_ms": 5870,
+  "text_chars": 766,
+  "answer": {
+    "tramite_posible": "SE PROVEA - SOLICITA",
+    "peticiones_secundarias": [
+      "ACREDITA",
+      "OFICIO - ACREDITA DILIGENCIAMIENTO"
+    ],
+    "justificacion": "La petición principal es que el juez aclare qué requisito debe cumplirse para proceder con la inscripción solicitada, lo que se encuadra en 'SE PROVEA - SOLICITA' al no haber un trámite específico para solicitudes de aclaración. Además, el escrito acompaña constancias electrónicas que podrían considerarse bajo 'ACREDITA', y se hace referencia al cumplimiento previo relacionado con los aportes, lo cual podría relacionarse con 'OFICIO - ACREDITA DILIGENCIAMIENTO', pero estas son peticiones secundarias al propósito principal del escrito.",
+    "prompt_tokens": 2811,
+    "completion_tokens": 179
+  }
+}

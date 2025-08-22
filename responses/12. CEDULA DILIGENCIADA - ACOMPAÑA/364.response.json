@@ -1,0 +1,17 @@
+{
+  "id": "319ec4ab-7d78-4416-b42e-0c258058115f",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/CEDULA%20DILIGENCIADA%20-%20ACOMPA%C3%91A/364.docx",
+  "container": "documents",
+  "size_bytes": 26312,
+  "elapsed_ms": 3415,
+  "text_chars": 553,
+  "answer": {
+    "tramite_posible": "CEDULA DILIGENCIADA - ACOMPAÑA",
+    "peticiones_secundarias": [
+      "Corroborar datos de la cédula adjunta"
+    ],
+    "justificacion": "El documento informa sobre el diligenciamiento de una cédula en un domicilio constituido y acompaña la misma en formato PDF para corroborar los datos. Según el listado, esto corresponde al trámite 'CEDULA DILIGENCIADA - ACOMPAÑA', ya que se detalla el resultado del diligenciamiento y se adjunta la cédula como respaldo.",
+    "prompt_tokens": 2750,
+    "completion_tokens": 134
+  }
+}

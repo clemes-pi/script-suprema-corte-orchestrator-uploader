@@ -1,0 +1,18 @@
+{
+  "id": "89f235b3-e6ad-4d92-8336-dbc82412f48f",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/PERITO%20MANIFIESTA%20/%20INFORMA/424.docx",
+  "container": "documents",
+  "size_bytes": 27433,
+  "elapsed_ms": 2425,
+  "text_chars": 468,
+  "answer": {
+    "tramite_posible": "PERITO MANIFIESTA / INFORMA",
+    "peticiones_secundarias": [
+      "ACREDITA",
+      "TRANSFERENCIA DE FONDOS - SOLICITA"
+    ],
+    "justificacion": "La intención principal del documento es que el perito médico manifieste e informe los datos requeridos. Aunque se adjunta documentación y se solicita el depósito, estas acciones son secundarias en relación con el acto de informar los datos del perito, que constituye el núcleo central del escrito.",
+    "prompt_tokens": 2736,
+    "completion_tokens": 113
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "38d96f98-b511-4212-acc6-67064b47af5b",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/MEDIDA%20CAUTELAR%20-%20SOLICITA/386.docx",
+  "container": "documents",
+  "size_bytes": 26165,
+  "elapsed_ms": 2035,
+  "text_chars": 293,
+  "answer": {
+    "tramite_posible": "MEDIDA CAUTELAR - SOLICITA",
+    "peticiones_secundarias": [
+      "Proveer de conformidad"
+    ],
+    "justificacion": "La solicitud principal del documento está relacionada con una medida cautelar que ya ha sido efectivizada, y se solicita correr traslado a la parte demandada. Esto indica que la intención principal es en el marco de una medida cautelar, por lo que se clasifica como 'MEDIDA CAUTELAR - SOLICITA'.",
+    "prompt_tokens": 2688,
+    "completion_tokens": 118
+  }
+}

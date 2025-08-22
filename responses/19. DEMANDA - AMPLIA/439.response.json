@@ -1,0 +1,19 @@
+{
+  "id": "74605960-c837-4ad0-bae6-78e037407a08",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DEMANDA%20-%20AMPL%C3%8DA/439.docx",
+  "container": "documents",
+  "size_bytes": 26863,
+  "elapsed_ms": 3051,
+  "text_chars": 1598,
+  "answer": {
+    "tramite_posible": "DEMANDA - AMPLÍA",
+    "peticiones_secundarias": [
+      "DOCUMENTACIÓN - ACOMPAÑA",
+      "ACREDITA CUMPLIMIENTO",
+      "SE PROVEA - SOLICITA"
+    ],
+    "justificacion": "La intención principal del documento es ampliar la demanda interpuesta, según lo manifestado en el apartado III, con base en el Art. 331 CPCC. Aunque también se acompaña documentación adicional y se acredita el cumplimiento de tasas y bonos, estas acciones son secundarias respecto a la ampliación de la demanda como núcleo del escrito.",
+    "prompt_tokens": 2988,
+    "completion_tokens": 138
+  }
+}

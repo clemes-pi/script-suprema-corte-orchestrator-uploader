@@ -1,0 +1,17 @@
+{
+  "id": "5bc8f7a2-46d4-4ed2-a970-3b11087147d6",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/MEDIDA%20CAUTELAR%20-%20SOLICITA/253.docx",
+  "container": "documents",
+  "size_bytes": 26306,
+  "elapsed_ms": 5226,
+  "text_chars": 606,
+  "answer": {
+    "tramite_posible": "MEDIDA CAUTELAR - SOLICITA",
+    "peticiones_secundarias": [
+      "Aclaración sobre los derechos en expectativa de ganancialidad de la ejecutada"
+    ],
+    "justificacion": "La petición principal del documento es que se aclare y disponga la traba de la medida cautelar sobre los derechos en expectativa de ganancialidad de la ejecutada, lo cual se corresponde directamente con 'MEDIDA CAUTELAR - SOLICITA'. La aclaración mencionada constituye una especificación dentro del alcance de la medida cautelar solicitada.",
+    "prompt_tokens": 2757,
+    "completion_tokens": 135
+  }
+}

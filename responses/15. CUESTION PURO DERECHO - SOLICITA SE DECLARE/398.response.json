@@ -1,0 +1,18 @@
+{
+  "id": "dd3c9926-f564-47e5-ae0a-3ece5997e094",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/REBELD%C3%8DA%20-%20SOLICITA%20SE%20DECLARE/398.docx",
+  "container": "documents",
+  "size_bytes": 26610,
+  "elapsed_ms": 2757,
+  "text_chars": 909,
+  "answer": {
+    "tramite_posible": "REBELDÍA - SOLICITA SE DECLARE",
+    "peticiones_secundarias": [
+      "DOMICILIO - CONSTITUYE",
+      "DOCUMENTACIÓN - ACOMPAÑA"
+    ],
+    "justificacion": "La petición principal del documento es que se declare la cuestión de puro derecho, lo cual corresponde al trámite 'REBELDÍA - SOLICITA SE DECLARE'. Las peticiones secundarias incluyen la constitución de domicilio y la presentación de documentación (copia del poder general y la resolución del Directorio).",
+    "prompt_tokens": 2807,
+    "completion_tokens": 129
+  }
+}

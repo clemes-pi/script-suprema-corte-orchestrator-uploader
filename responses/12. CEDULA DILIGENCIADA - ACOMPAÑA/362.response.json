@@ -1,0 +1,18 @@
+{
+  "id": "09ecdb7b-aa33-4831-80b1-305dbcd8ab1a",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20DILIGENCIADA%20-%20ACOMPA%C3%91A/362.docx",
+  "container": "documents",
+  "size_bytes": 26342,
+  "elapsed_ms": 4091,
+  "text_chars": 811,
+  "answer": {
+    "tramite_posible": "CÉDULA DILIGENCIADA - ACOMPAÑA",
+    "peticiones_secundarias": [
+      "Informar sobre la imposibilidad de notificación en el domicilio",
+      "Corroborar datos de la cédula adjunta"
+    ],
+    "justificacion": "El documento tiene como intención principal informar sobre el estado y resultado del diligenciamiento de la cédula, ya que se describe la imposibilidad de notificación en el domicilio y se acompaña la cédula en cuestión como respaldo.",
+    "prompt_tokens": 2805,
+    "completion_tokens": 121
+  }
+}

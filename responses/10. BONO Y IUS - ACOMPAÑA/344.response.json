@@ -1,0 +1,17 @@
+{
+  "id": "7330e9de-aa7a-4624-bfda-571c516d3cc4",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/BONO%20Y%20IUS%20-%20ACOMPA%C3%91A/344.docx",
+  "container": "documents",
+  "size_bytes": 26252,
+  "elapsed_ms": 4611,
+  "text_chars": 510,
+  "answer": {
+    "tramite_posible": "BONO Y IUS - ACOMPAÑA",
+    "peticiones_secundarias": [
+      "Solicita se tenga por cumplido el adjunto bono y jus"
+    ],
+    "justificacion": "El documento tiene como intención principal adjuntar el bono y jus correspondientes, lo cual se ajusta perfectamente al trámite 'BONO Y IUS - ACOMPAÑA', ya que se está acreditando su cumplimiento.",
+    "prompt_tokens": 2734,
+    "completion_tokens": 98
+  }
+}

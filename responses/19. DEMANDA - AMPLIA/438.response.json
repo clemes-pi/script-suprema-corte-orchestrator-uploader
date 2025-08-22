@@ -1,0 +1,17 @@
+{
+  "id": "d9d21d5b-c445-42bf-9757-04c731757f3a",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DESISTIMIENTO%20-%20PRESENTA/438.docx",
+  "container": "documents",
+  "size_bytes": 26487,
+  "elapsed_ms": 1959,
+  "text_chars": 862,
+  "answer": {
+    "tramite_posible": "DESISTIMIENTO - PRESENTA",
+    "peticiones_secundarias": [
+      "SE PROVEA - SOLICITA"
+    ],
+    "justificacion": "La intención principal del documento es desistir del codemandado genérico, lo cual se ajusta al trámite 'DESISTIMIENTO - PRESENTA'. La solicitud secundaria de proveer lo peticionado el 03/02/2023 es clasificada como 'SE PROVEA - SOLICITA', pero no prevalece sobre el desistimiento como la acción principal.",
+    "prompt_tokens": 2842,
+    "completion_tokens": 124
+  }
+}

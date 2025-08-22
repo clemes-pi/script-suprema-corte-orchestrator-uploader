@@ -1,0 +1,17 @@
+{
+  "id": "3e7081ed-f026-4a51-8149-9e18ee0dc190",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/MEDIDA%20CAUTELAR%20-%20SOLICITA/388.docx",
+  "container": "documents",
+  "size_bytes": 26155,
+  "elapsed_ms": 3099,
+  "text_chars": 294,
+  "answer": {
+    "tramite_posible": "MEDIDA CAUTELAR - SOLICITA",
+    "peticiones_secundarias": [
+      "Se corra traslado a la demandada por el término de ley"
+    ],
+    "justificacion": "La petición principal del documento está relacionada con la medida cautelar efectivizada y la solicitud de su continuación mediante el traslado a la demandada. Esto encaja con el trámite 'MEDIDA CAUTELAR - SOLICITA', ya que se está solicitando una acción vinculada a una medida cautelar previamente ordenada.",
+    "prompt_tokens": 2687,
+    "completion_tokens": 125
+  }
+}

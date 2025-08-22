@@ -1,0 +1,18 @@
+{
+  "id": "e806cc57-5051-408c-a6ea-81416b6b928f",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/SE%20PROVEA%20-%20SOLICITA/395.docx",
+  "container": "documents",
+  "size_bytes": 26603,
+  "elapsed_ms": 2733,
+  "text_chars": 815,
+  "answer": {
+    "tramite_posible": "SE PROVEA - SOLICITA",
+    "peticiones_secundarias": [
+      "DECLARACIÓN DE PURO DERECHO - SOLICITA",
+      "SENTENCIA - SE DICTE"
+    ],
+    "justificacion": "La intención principal del documento es que el juez provea conforme a las solicitudes presentadas, específicamente declarando la cuestión como de puro derecho y dictando sentencia. Dado que no existe un trámite específico para 'declaración de puro derecho', se prioriza el trámite 'SE PROVEA - SOLICITA' como el más amplio y aplicable para cubrir la solicitud principal.",
+    "prompt_tokens": 2818,
+    "completion_tokens": 143
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "96cb4d69-922a-454e-82e8-0b766d688706",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20SOLICITA%20SE%20DICTE/420.docx",
+  "container": "documents",
+  "size_bytes": 26187,
+  "elapsed_ms": 21196,
+  "text_chars": 468,
+  "answer": {
+    "tramite_posible": "DH - SOLICITA SE DICTE",
+    "peticiones_secundarias": [
+      "ACOMPAÑA EDICTOS DEBIDAMENTE PUBLICADOS"
+    ],
+    "justificacion": "La intención principal del documento es que se dicte la declaratoria de herederos, lo cual se menciona explícitamente en el texto y corresponde al trámite 'DH - SOLICITA SE DICTE'. Aunque se acompañan edictos publicados, esta acción es secundaria y sirve como respaldo para la solicitud principal.",
+    "prompt_tokens": 2742,
+    "completion_tokens": 119
+  }
+}

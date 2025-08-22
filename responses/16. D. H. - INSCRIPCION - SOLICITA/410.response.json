@@ -1,0 +1,19 @@
+{
+  "id": "579a6bb9-461c-4b6c-807e-39fb49f3c702",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DH%20-%20INSCRIPCI%C3%93N%20SOLICITA/410.docx",
+  "container": "documents",
+  "size_bytes": 27007,
+  "elapsed_ms": 2450,
+  "text_chars": 1422,
+  "answer": {
+    "tramite_posible": "DH - INSCRIPCIÓN SOLICITA",
+    "peticiones_secundarias": [
+      "REGULACIÓN DE HONORARIOS - SOLICITA",
+      "OFICIO - SOLICITA SE LIBRE",
+      "ACREDITA CUMPLIMIENTO"
+    ],
+    "justificacion": "La petición central del escrito es que se ordene la inscripción de la Declaratoria de Herederos junto con la transferencia de dominio del automotor, lo cual corresponde al trámite 'DH - INSCRIPCIÓN SOLICITA'. Las peticiones secundarias incluyen la regulación de honorarios, la solicitud de libramiento de oficio, y la acreditación de cumplimiento mediante los recibos de pago de tasa y sobretasa de justicia.",
+    "prompt_tokens": 2976,
+    "completion_tokens": 162
+  }
+}

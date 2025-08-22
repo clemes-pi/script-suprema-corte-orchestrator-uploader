@@ -1,0 +1,18 @@
+{
+  "id": "2a746101-99ca-4318-a541-2a2903ebac18",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/TRASLADO%20CONTESTA/257.docx",
+  "container": "documents",
+  "size_bytes": 28289,
+  "elapsed_ms": 2731,
+  "text_chars": 1820,
+  "answer": {
+    "tramite_posible": "TRASLADO CONTESTA",
+    "peticiones_secundarias": [
+      "Aclaración sobre la falsedad del título en ejecución",
+      "Rechazo de la acción ejecutiva con costas"
+    ],
+    "justificacion": "El escrito tiene como intención principal contestar una intimación, lo que corresponde clasificar como 'TRASLADO CONTESTA', ya que se está respondiendo y aclarando sobre el documento en cuestión. Las demás peticiones son secundarias y derivan del contenido de la contestación.",
+    "prompt_tokens": 3045,
+    "completion_tokens": 127
+  }
+}

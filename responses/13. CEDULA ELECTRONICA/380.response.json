@@ -1,0 +1,15 @@
+{
+  "id": "ce95f7d5-66f7-49f9-ba63-f91a3d856698",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/TRASLADO%20CONTESTA/380.docx",
+  "container": "documents",
+  "size_bytes": 29367,
+  "elapsed_ms": 2194,
+  "text_chars": 133,
+  "answer": {
+    "tramite_posible": "TRASLADO CONTESTA",
+    "peticiones_secundarias": [],
+    "justificacion": "El contenido del documento indica que se trata de un traslado de demanda bajo responsabilidad de la parte, lo cual corresponde al trámite 'TRASLADO CONTESTA' según el listado proporcionado. No hay elementos adicionales que sugieran otras peticiones secundarias.",
+    "prompt_tokens": 2650,
+    "completion_tokens": 90
+  }
+}

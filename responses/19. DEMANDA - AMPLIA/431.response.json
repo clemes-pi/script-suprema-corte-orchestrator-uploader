@@ -1,0 +1,17 @@
+{
+  "id": "32e23f9b-1216-49b4-a6ac-05ead0bc4998",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/DEMANDA%20-%20AMPL%C3%8DA/431.docx",
+  "container": "documents",
+  "size_bytes": 26256,
+  "elapsed_ms": 1895,
+  "text_chars": 484,
+  "answer": {
+    "tramite_posible": "DEMANDA - AMPLÍA",
+    "peticiones_secundarias": [
+      "Proveer de conformidad"
+    ],
+    "justificacion": "La intención principal del documento es ampliar la demanda conforme al artículo 331 del C.P.C.C., lo cual corresponde al trámite 'DEMANDA - AMPLÍA'. La solicitud de 'Proveer de conformidad' es una petición secundaria que no tiene un trámite específico en el listado.",
+    "prompt_tokens": 2750,
+    "completion_tokens": 106
+  }
+}

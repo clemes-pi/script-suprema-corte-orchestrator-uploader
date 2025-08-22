@@ -1,0 +1,15 @@
+{
+  "id": "9b8169b6-c608-421b-8cae-95aae0eea39f",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents//401.docx",
+  "container": "documents",
+  "size_bytes": 28526,
+  "elapsed_ms": 3633,
+  "text_chars": 1796,
+  "answer": {
+    "tramite_posible": "",
+    "peticiones_secundarias": [],
+    "justificacion": "",
+    "prompt_tokens": 3061,
+    "completion_tokens": 185
+  }
+}

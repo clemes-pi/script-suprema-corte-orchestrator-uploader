@@ -1,0 +1,20 @@
+{
+  "id": "bd0f98ea-d7d4-419b-9f06-1f675017907b",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/ACREDITA/409.docx",
+  "container": "documents",
+  "size_bytes": 26989,
+  "elapsed_ms": 4057,
+  "text_chars": 1768,
+  "answer": {
+    "tramite_posible": "ACREDITA",
+    "peticiones_secundarias": [
+      "Solicita se agreguen los comprobantes de pago de la tasa de justicia y su contribución",
+      "Solicita regulación de honorarios de los profesionales intervinientes",
+      "Acompaña declaración jurada patrimonial, informes de dominio, anotaciones personales y valuación fiscal",
+      "Adjunta escritura relacionada con la subdivisión de las parcelas A y B"
+    ],
+    "justificacion": "La intención principal del documento es acreditar el cumplimiento de pagos asociados a la tasa de justicia y su contribución, lo que se ajusta al trámite 'ACREDITA'. Las peticiones secundarias incluyen la regulación de honorarios y la presentación de documentación vinculada al expediente, pero no tienen la misma prioridad en el contexto del documento.",
+    "prompt_tokens": 3031,
+    "completion_tokens": 180
+  }
+}

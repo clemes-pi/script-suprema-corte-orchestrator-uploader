@@ -1,0 +1,18 @@
+{
+  "id": "921c7f10-039d-4eb4-89d0-f715ca1b5668",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20-%20SOLICITA%20SE%20LIBRE%20NUEVA/357.docx",
+  "container": "documents",
+  "size_bytes": 26412,
+  "elapsed_ms": 3257,
+  "text_chars": 851,
+  "answer": {
+    "tramite_posible": "CÉDULA - SOLICITA SE LIBRE NUEVA",
+    "peticiones_secundarias": [
+      "Adjunta respuesta de la Cámara Nacional Electoral",
+      "Solicita se ordene librar nueva cédula bajo responsabilidad de la parte actora"
+    ],
+    "justificacion": "La intención principal del escrito es solicitar se libre una nueva cédula bajo responsabilidad de la parte actora, lo cual corresponde al trámite 'CÉDULA - SOLICITA SE LIBRE NUEVA'. Aunque el documento también menciona la adjunción de una respuesta de la Cámara Nacional Electoral, esto se presenta como una acción secundaria y no constituye la petición principal.",
+    "prompt_tokens": 2800,
+    "completion_tokens": 152
+  }
+}

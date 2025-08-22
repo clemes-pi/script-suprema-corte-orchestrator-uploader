@@ -1,0 +1,15 @@
+{
+  "id": "54a4c048-8e09-4ed5-b6be-27b0ea1b3fb5",
+  "blob_url": "https://blobescritosjudiciales.blob.core.windows.net/documents/C%C3%89DULA%20-%20SOLICITA%20SE%20LIBRE%20NUEVA/353.docx",
+  "container": "documents",
+  "size_bytes": 26271,
+  "elapsed_ms": 1855,
+  "text_chars": 494,
+  "answer": {
+    "tramite_posible": "CÉDULA - SOLICITA SE LIBRE NUEVA",
+    "peticiones_secundarias": [],
+    "justificacion": "El documento tiene como intención principal la solicitud de libramiento de una nueva cédula bajo responsabilidad de la parte actora, en conformidad con los lineamientos establecidos. No se identifican peticiones secundarias.",
+    "prompt_tokens": 2726,
+    "completion_tokens": 87
+  }
+}
